@@ -33,6 +33,7 @@ const defaultOptions = {
   todayHighlight: false,
   updateOnBlur: true,
   weekStart: 0,
+  closeOnClickOutside: true
 };
 
 export default defaultOptions;
